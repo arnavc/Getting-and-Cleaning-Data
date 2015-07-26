@@ -13,3 +13,4 @@ The CodeBook.md file describes the variables, the data, and any transformations 
 
 run_analysis.R provides the R code that was used to perform the transformations on the data. The code can be launched in RStudio by importing the file.
 
+tidy_data.txt provides the data requested by the 5th step of the instructions. 
